@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ryan Phan</h1>
-<h3 align="center">A passionate developer from Viet Nam</h3>
+<h1 align="center">
+  <samp>Hi 👋, I'm Ryan Phan</samp>
+</h1>
+<h3 align="center">
+  <samp>「 A passionate developer from Viet Nam </samp>
+</h3>
 
-- 🌱 I’m currently learning **Spring, Spring Boot, ReactJS and NextJS**
-
+- 🌱 I’m currently working and learning with **Spring, Spring Boot, ReactJS and NextJS**
 - 📫 How to reach me **ryanphan.work@gmail.com**
-
 - ⚡ Fun fact **I think I am funny, humorous**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/tinhtute.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tinhtute.99" height="30" width="40" /></a>
-<a href="https://instagram.com/therealtinhtute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therealtinhtute" height="30" width="40" /></a>
-</p>
+<h4 align="left">Connect with me: <p align="left">
+<a href="https://instagram.com/__therealtinhtute" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="tinhtute" />
+ </a> 
+ <a href="https://facebook.com/tinhtute.99" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="tinhtute"  />
+  </a>
+  </p></h4>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
