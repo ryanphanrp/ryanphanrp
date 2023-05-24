@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan Phan</h1>
 <h3 align="center">A passionate developer from Viet Nam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanfna&label=Profile%20views&color=0e75b6&style=flat" alt="ryanfna" /> </p>
-
 - 🌱 I’m currently learning and working with **Spring, Spring Boot, ReactJS and NextJS**
 
 - 📫 How to reach me **ryanphan.work@gmail.com**
