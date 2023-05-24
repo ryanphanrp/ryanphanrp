@@ -1,5 +1,5 @@
 <h1 align="center">
-  <samp>Hi 👋, I'm Ryan Phan</samp>
+  <samp>Halooo 👋, I'm Ryan Phan</samp>
 </h1>
 <h3 align="center">
   <samp>「 A passionate developer from Viet Nam </samp>
